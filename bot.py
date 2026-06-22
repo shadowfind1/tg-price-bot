@@ -3,7 +3,7 @@ import re
 import random
 import tempfile
 import os
-import fitz
+import pymupdf as fitz
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 from telegram import Update

@@ -2,4 +2,4 @@ python-telegram-bot==21.9
 Pillow
 matplotlib
 numpy
-pymupdf
+pymupdf>=1.23.0
